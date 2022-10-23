@@ -22,6 +22,8 @@
 
 Comecei a estudar programação em 2021 e desde então não parei mais. O poder da tecnologia é algo incrível que me faz buscar por um autodesenvolvimento contínuo, capaz de melhorar a minha vida e das pessoas ao meu redor.
 
+http://portfolio-ana-gomez.surge.sh
+
 ## Contato
 
 📧 csoanaufscar@outlook.com
