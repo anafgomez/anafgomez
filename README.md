@@ -1,5 +1,5 @@
 ### Olá! Eu sou a Ana 👋
-### Seja bem vinde ao meu perfil
+### Seja bem vindo(a) ao meu perfil
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-flávia-gomez-2a001521b/)
 
