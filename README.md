@@ -1,7 +1,7 @@
-### Olá! Eu sou a Ana 👋
-### Seja bem vindo(a) ao meu perfil
+### Hi! I'm Ana 👋
+### Welcome to my profile.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-flávia-gomez-2a001521b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-flavia-gomez/))
 
 ![Ana GitHub stats](https://github-readme-stats.vercel.app/api?username=anafgomez&show_icons=true&theme=dracula)
 
