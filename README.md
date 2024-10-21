@@ -7,7 +7,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Tecnologias que utilizo no dia a dia
+## Technologies that I use on a daily basis
 
 <div style="display: inline_block"><br/>
 <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -20,11 +20,11 @@
 
 ##
 
-Comecei a estudar programação em 2021 e desde então não parei mais. O poder da tecnologia é algo incrível que me faz buscar por um autodesenvolvimento contínuo, capaz de melhorar a minha vida e das pessoas ao meu redor.
+I started studying programming in 2021 and haven't stopped since. The power of technology is something incredible that makes me seek continuous self-development, capable of improving my life and that of the people around me.
 
 http://portfolio-ana-gomez.surge.sh
 
-## Contato
+## Contact
 
 📧 csoanaufscar@outlook.com
 
